@@ -17,6 +17,14 @@ h1, h2, h3{
 	text-decoration: underline;
 }
 
+#albums li {
+	color: #006fff;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+#
+
 #app {
 	border: 1px solid black;
 	width: 800px;
